@@ -1,7 +1,7 @@
-using System;
-
-class Program {
-  public static void Main (string[] args) {
-    Console.WriteLine ("Hello World\r\nI'm hosted with GitHib pages");
-  }
-}
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
